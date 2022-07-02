@@ -13,6 +13,6 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@black-pantherpa/Malshan-Bot?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackPanther-svg/Malshan-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fsanuwaofficial%2FAQUABOT-MD)
 
 [´𝙼𝚈 𝚗𝚞𝚖𝚋𝚎𝚛´](http://wa.me/94771573168)
