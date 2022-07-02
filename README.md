@@ -1,8 +1,7 @@
 # Malshan Bot
 
 
-<img src="https://i.ibb.co/TWWZqm1/IMG-20220702-WA0024.jpg" </a>
-<div align="center">
+<a href="https://ibb.co/wccTrM7"><img src="https://i.ibb.co/nPPT8zB/IMG-20220702-WA0024.jpg" alt="IMG-20220702-WA0024" border="0" /></a>
  
 <p align="center">
 
