@@ -1,11 +1,11 @@
 {
-    "name": "Aquabot - MD",
+    "name": "Malshan_Bot - MD",
     "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
+    "logo": "https://i.ibb.co/TWWZqm1/IMG-20220702-WA0024.jpg",
     "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
-    "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
-    "website":   "https://aquabot.ga/",
-    "success_url": "https://aquabot.ga",
+    "repository": "https://github.com/BlackPanther-svg/Malshan-Bot",
+    "website":   "https://github.com/BlackPanther-svg/Malshan-Bot",
+    "success_url": "https://github.com/BlackPanther-svg/Malshan-Bot",
     "stack": "container",
      "env": {
             "AQUA_SESSION": {
@@ -14,12 +14,12 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "Sanuwa Official" ,
+            "value": "Malshan Creation" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94701629707" ,
+            "value": "94771573168" ,
             "required": true
              },
        
@@ -31,7 +31,7 @@
            
            "URL_1NAME": {
             "description": "",
-            "value": "🎊INSTAGRAM🎊" ,
+            "value": "💫INSTAGRAM💫" ,
             "required": true
       },
            "URL_1LINK": {
@@ -51,7 +51,7 @@
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 Malshan ²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -61,7 +61,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© Malshan Cretion,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -81,7 +81,7 @@
       },
       "ALIVE_LOGO": {
             "description": "",
-            "value": "https://telegra.ph/file/85fe740b2385a55178500.jpg" ,
+            "value": "https://i.ibb.co/TWWZqm1/IMG-20220702-WA0024.jpg" ,
             "required": true
       },
       "DEPLOYER": {
@@ -121,7 +121,7 @@
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "⛲Malshan bot࿐" ,
             "required": true
       },
           "WORK_TYPE": {
