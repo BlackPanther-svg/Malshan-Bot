@@ -11,4 +11,4 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackPanther-svg/Malshan-Bot)
 
-[´𝙼𝚈 𝚗𝚞𝚖𝚋𝚎𝚛´](http://wa.me/94741671668)
+[´𝙼𝚈 𝚗𝚞𝚖𝚋𝚎𝚛´](http://wa.me/94771573168)
