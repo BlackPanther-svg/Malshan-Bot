@@ -3,10 +3,15 @@
     "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/nPPT8zB/IMG-20220702-WA0024.jpg",
     "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
-    "repository": "https://github.com/BlackPanther-svg/Malshan-Bot",
-    "website":   "https://github.com/BlackPanther-svg/Malshan-Bot",
-    "success_url": "https://github.com/BlackPanther-svg/Malshan-Bot",
+
+    "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
+
+    "website":   "https://aquabot.ga/",
+
+    "success_url": "https://aquabot.ga",
+
     "stack": "container",
+
      "env": {
             "AQUA_SESSION": {
             "description": "",
